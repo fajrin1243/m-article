@@ -1,0 +1,1 @@
+<?=base_url();?>index.php/cdaftar/insert_satu
